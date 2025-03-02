@@ -2,6 +2,10 @@
 
 Ever wanted to grab that perfect YouTube thumbnail without doing a PhD in web inspection? Well, you're in luck! This Chrome extension is here to save your day (and your time)! 
 
+<div align="center">
+  <img src="assets/preview.png" alt="YouTube Thumbnail Downloader Preview" width="400"/>
+</div>
+
 ## 🎯 What Does It Do?
 
 It does exactly what it says on the tin - downloads YouTube thumbnails! No rocket science, no complicated buttons, just pure thumbnail-grabbing goodness.
